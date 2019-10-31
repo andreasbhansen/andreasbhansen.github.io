@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Page by Andreas Biørn-Hansen',
+  subtitle: 'Based on the Lumen Gatsby theme',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -25,9 +25,9 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Andreas Biørn-Hansen',
+    photo: '/photo.png',
+    bio: 'Phd fellow, researching and teaching cross-platform 📱 development at Kristiania University College 🇳🇴 and Brunel University London 🇬🇧',
     contacts: {
       email: '',
       facebook: '#',
